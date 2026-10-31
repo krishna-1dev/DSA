@@ -6,3 +6,4 @@ function greatest(a, b) {
   }
 }
 console.log(greatest(5,3));
+
