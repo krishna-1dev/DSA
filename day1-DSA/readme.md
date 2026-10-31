@@ -1,0 +1,1 @@
+Accept the principal amount(p), annual interest rate(r), the number of years(t) and number of times interest is compounded per year(n). write a program to calculate the compound interest.
